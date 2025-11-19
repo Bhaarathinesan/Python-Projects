@@ -2,7 +2,7 @@
 
 A classic Minesweeper game built using pure Python, designed to run in the terminal. This project recreates the iconic puzzle game where players uncover tiles, avoid hidden mines, and use logic to identify safe spots on the board.
 
-🚀 Features
+🚀 Features 
 
 ✔️ Fully playable Minesweeper game in the terminal
 
